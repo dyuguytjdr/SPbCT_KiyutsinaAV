@@ -1,0 +1,11 @@
+﻿  Directory.cpp
+C:\Users\AlexLinka\Desktop\Lab17\Directory\Directory\Directory.cpp(3,23): error C2871: System: пространство имен с таким именем не существует
+C:\Users\AlexLinka\Desktop\Lab17\Directory\Directory\Directory.cpp(4,27): error C2653: System: не является именем класса или пространства имен
+C:\Users\AlexLinka\Desktop\Lab17\Directory\Directory\Directory.cpp(4,27): error C2871: IO: пространство имен с таким именем не существует
+C:\Users\AlexLinka\Desktop\Lab17\Directory\Directory\Directory.cpp(7,2): error C2059: синтаксическая ошибка: public
+C:\Users\AlexLinka\Desktop\Lab17\Directory\Directory\Directory.cpp(8,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\AlexLinka\Desktop\Lab17\Directory\Directory\Directory.cpp(8,2): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\AlexLinka\Desktop\Lab17\Directory\Directory\Directory.cpp(39,23): error C3083: Program: символ слева от "::" должен представлять тип
+C:\Users\AlexLinka\Desktop\Lab17\Directory\Directory\Directory.cpp(39,32): error C2039: "Main": не является членом "ConsoleApplication2".
+C:\Users\AlexLinka\Desktop\Lab17\Directory\Directory\Directory.cpp(5): message : см. объявление "ConsoleApplication2"
+C:\Users\AlexLinka\Desktop\Lab17\Directory\Directory\Directory.cpp(39,36): error C3861: Main: идентификатор не найден
